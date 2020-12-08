@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-1. Location: https://jasonmcd96.github.io/JasonMcD96/
+
+1. Here is a link to my portfolio :) : https://jasonmcd96.github.io/Responsive-Portfolio/
